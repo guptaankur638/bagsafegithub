@@ -1,0 +1,184 @@
+/* section page = one */
+
+.nav-item {
+    padding: 0 6px;
+    color: black;
+}
+
+#title h1, h4 {
+    margin-top: 10%;
+    text-align: center;
+    color: black;
+}
+
+h5 {
+    color: blueviolet;
+    text-align: center;
+}
+
+#title .container-fluid {
+    padding: 4% 15%;
+}
+
+.imgone {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blueviolet;
+    width: 50%;
+}
+
+/* section page = two */
+
+.twoh2 {
+    margin-bottom: 80px;
+}
+
+.two .container-fluid {
+    color: wheat;
+    padding: 6% 15% 6% 15%;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.fas {
+    margin-bottom: 20px;
+}
+
+/* section page = three*/
+
+.three .container-fluid {
+    padding: 6% 15% 6% 15%;
+    text-align: center;
+}
+
+.oyo {
+    width: 60%;
+    margin-right: -30px;
+    text-align: center;
+}
+
+.accor {
+    width: 80%;
+    margin-top: 10px;
+}
+
+.bookings {
+    width: 90%;
+    margin-top: 14px;
+}
+
+.yatra {
+    margin-left: -60px;
+    width: 40%;
+    margin-top: 14px;
+}
+
+.col-md-3, .col-md-4 {
+    padding: 0 10px;
+}
+
+.threeh2 {
+    margin-bottom: 80px;
+}
+
+/* section page = four*/
+
+.four .container-fluid {
+    padding: 6% 15% 6% 15%;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    background-color: blueviolet;
+}
+
+.fourh2 {
+    margin-bottom: 80px;
+}
+
+em {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.carousel-control-prev {
+    margin-top: 20px;
+    margin-right: 400px;
+}
+
+.carousel-control-next {
+    margin-top: 20px;
+    margin-left: 600px;
+}
+
+.imgtwo {
+    width: 10%;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+/* section page = five*/
+
+#endorsed .container-fluid {
+    text-align: center;
+    padding: 6% 15% 6% 15%;
+}
+
+.yourstory {
+    width: 50%;
+}
+
+.techcrunch {
+    width: 75%;
+    margin-top: 13px;
+    margin-bottom: 10px;
+}
+
+.ycombinator {
+    width: 60%;
+    margin-bottom: 5px;
+}
+
+.fiveh2 {
+    margin-bottom: 80px;
+}
+
+h5 {
+    color: black;
+}
+
+/* section page = six*/
+
+.six .container-fluid {
+    text-align: center;
+    color: white;
+    padding: 5% 15% 5% 15%;
+    background-color: blueviolet;
+}
+
+.sixh2 {
+    margin-bottom: 30px;
+}
+
+.centerbtn {
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-dark, .btn-outline-dark {
+    margin-right: 10px;
+}
+
+/* section page = seven*/
+
+.seven .container-fluid {
+    text-align: center;
+    padding: 6% 15% 6% 15%;
+}
+
+.card {
+    text-align: center;
+}
+
